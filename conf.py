@@ -19,6 +19,7 @@ extensions = [
     "sphinxext.opengraph",
     "sphinx_copybutton",
     "sphinxcontrib.video",
+    "sphinx_markdown_builder",
     "gdscript",
 ]
 

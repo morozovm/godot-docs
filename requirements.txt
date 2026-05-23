@@ -22,3 +22,6 @@ sphinxext-opengraph==0.13.0
 
 # `.. video::` directive support to embed videos in documentation pages.
 sphinxcontrib-video==0.4.2
+
+# Markdown builder for generating Markdown output from Sphinx.
+sphinx-markdown-builder==0.6.7
